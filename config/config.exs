@@ -9,8 +9,8 @@ import Config
 
 config :ex_aws,
   debug_requests: true,
-  access_key_id: ["AKIA54WKV4WSKZM3WG3R"],
-  secret_access_key: ["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"],
+  access_key_id: ["AKIA54WKV4WSJIVIL4E7"],
+  secret_access_key: ["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"],
   region: "sa-east-1"
 
 # Configures the endpoint
